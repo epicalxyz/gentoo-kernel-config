@@ -28,6 +28,8 @@ sys-apps/systemd cgroup-hybrid
 sys-devel/gcc go graphite
 sys-libs/zlib minizip
 sys-devel/llvm gold
+virtual/linux-sources firmware
 www-client/firefox hwaccel system-libvpx
 www-client/w3m imlib
 x11-base/xorg-server kdrive glamor xvfb xephyr
+media-fonts/corefonts tahoma

@@ -8,3 +8,4 @@ net-misc/dropbox CC-BY-ND-3.0 dropbox
 sys-kernel/linux-firmware linux-fw-redistributable no-source-code
 www-client/google-chrome google-chrome
 media-fonts/corefonts MSttfEULA
+app-misc/ccal GPL

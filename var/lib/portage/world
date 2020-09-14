@@ -35,6 +35,7 @@ media-video/mpv
 net-analyzer/mtr
 net-dns/bind-tools
 net-firewall/firewalld
+net-ftp/lftp
 net-im/telegram-desktop
 net-im/tencent-qq
 net-misc/dropbox
@@ -46,8 +47,6 @@ sys-boot/efibootmgr
 sys-fs/dosfstools
 sys-fs/fuse-exfat
 sys-kernel/gentoo-sources
-sys-kernel/linux-firmware
-virtual/emacs
 www-client/firefox
 www-client/google-chrome
 www-misc/profile-sync-daemon
