@@ -16,6 +16,7 @@ media-fonts/source-han-sans L10N: ja ko zh-CN zh-TW
 media-libs/libsdl2 haptic
 media-libs/libvpx postproc
 media-libs/mesa osmesa -vaapi
+media-sound/mpd libmpdclient
 media-video/mpv libmpv
 net-analyzer/mtr -gtk
 net-fs/samba winbind
@@ -32,4 +33,3 @@ virtual/linux-sources firmware
 www-client/firefox hwaccel system-libvpx
 www-client/w3m imlib
 x11-base/xorg-server kdrive glamor xvfb xephyr
-media-fonts/corefonts tahoma

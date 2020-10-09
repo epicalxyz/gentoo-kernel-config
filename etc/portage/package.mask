@@ -1,2 +1,1 @@
->sys-kernel/gentoo-sources-5.4.60
->www-client/firefox-79
+#>www-client/firefox-79
