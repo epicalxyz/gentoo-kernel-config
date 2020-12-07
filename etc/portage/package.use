@@ -21,7 +21,7 @@ media-video/mpv libmpv
 net-analyzer/mtr -gtk
 net-fs/samba winbind
 net-firewall/firewalld -gui
-net-firewall/nftables xtables
+net-firewall/nftables json python xtables
 net-misc/curl http2
 net-misc/rdesktop xrandr
 net-misc/spice-gtk usbredir
