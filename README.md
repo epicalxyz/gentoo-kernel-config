@@ -1,4 +1,4 @@
-Gentoo on ThinkPad X230 boot with EFI stub kernel.
+Boot with EFI stub kernel.
 
 Get more information from [EFI stub kernel](https://wiki.gentoo.org/wiki/EFI_stub_kernel).
 
